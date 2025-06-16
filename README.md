@@ -66,7 +66,7 @@ Machine-Learning-Iris-Flower-Classification/
 ```bash
 cd backend
 python -m venv venv
-source venv/bin/activate  # or .venv if that's your setup
+source venv/bin/activate
 pip install -r ../requirements.txt
 python app.py
 ```
